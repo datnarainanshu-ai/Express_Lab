@@ -1,17 +1,3 @@
  #Node Project Ignores 
  node_modules
  package-lock.json
-# Node / Express stuff
-node_modules/
-.env
-.DS_Store
-
-# Logs
-logs
-*.log
-
-# System files
-Thumbs.db
-
-# VS Code
-.vscode/
